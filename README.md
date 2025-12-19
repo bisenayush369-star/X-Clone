@@ -9,9 +9,8 @@ This project focuses on clean UI design, smooth responsiveness, and interactive 
 ---
 
 ## 🌐 Live Demo
+
 (https://x-cloane.netlify.app)
-
-
 
 ---
 
