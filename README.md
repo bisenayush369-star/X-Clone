@@ -64,9 +64,7 @@ Built only for educational and portfolio purposes.
 ---
 
 ## 👨‍💻 Dev
-
-Ayush Bisen  
-GitHub: https://github.com/bisenayush369-star
+Ayush (AyushdevX)
 
 ---
 
